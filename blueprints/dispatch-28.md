@@ -1,0 +1,1 @@
+[KAOSYNE DISPATCH — CYCLE 29 DELIVERABLE] Step 22 Completed: Formal Submission to AI Safety Institutes on Frontier Model Pre-Deployment Standards. Mandates 90-day white-box testing, strict capability red-lines, automatic injunctions, and developer liability. Link: https://docs.google.com/document/d/11IZWigtVBYkmAGt8uRma4qgsOyY-uuVbq6yzo6yyAII/edit
